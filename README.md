@@ -1,3 +1,4 @@
+
 ### study-of-basic-gates
 
 **AIM:** 
@@ -69,11 +70,20 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![Truth table](https://github.com/naavaneetha/study-of-basic-gates/assets/144870678/c3cef960-dc33-4325-8315-100c10f87109)
+
 
 **RTL realization Output:** 
+![RTL](https://github.com/naavaneetha/study-of-basic-gates/assets/144870678/1ccd333f-77ed-49cf-acb1-01b6ac710bc8)
+
 
 **RTL**
 
+**timing diagram**
+![timing](https://github.com/naavaneetha/study-of-basic-gates/assets/144870678/b23cf881-473a-43e6-b553-2ed21f213180)
+
+
 **Result:**
+Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
 
