@@ -63,17 +63,24 @@ Y= A⊕B
 
 
 **PROGRAM**
+![code](https://github.com/naavaneetha/study-of-basic-gates/assets/144870678/49a00378-a6dd-47cf-82f3-a5559c11bb8e)
+
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![Truth table](https://github.com/naavaneetha/study-of-basic-gates/assets/144870678/517e271c-b9a6-48cc-9126-8219313c01bf)
 
 **RTL realization Output:** 
+![RTL](https://github.com/naavaneetha/study-of-basic-gates/assets/144870678/f3f668b4-9fa3-432d-8394-1e1ee665e132)
 
-**RTL**
+**Timing Diagram**
+![timing](https://github.com/naavaneetha/study-of-basic-gates/assets/144870678/d3b3c5e8-c260-4a37-93b0-f6ae96567a76)
+
 
 **Result:**
+Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
 
